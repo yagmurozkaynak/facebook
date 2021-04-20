@@ -1,0 +1,31 @@
+.ustalan {
+    background-color: #4867aa;
+    height: 80px;
+}
+
+nav form input {
+    padding: 0px !important;
+    border-radius: 0px !important;
+}
+
+.giris-buton {
+    background-color: #4867aa;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gradian {
+    background: linear-gradient(white, #D4D9E8);
+}
+
+.dtarih {
+    padding: 0px!important;
+    width: 65px!important;
+    border-radius: 0;
+}
+
+.col-md-1 a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #0E385F;
+}
